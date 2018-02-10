@@ -1,0 +1,4 @@
+win 10: M-8
+win 8.1: 
+win 7 T-1
+kali: A-12
